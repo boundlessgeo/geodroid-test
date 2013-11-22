@@ -4,8 +4,8 @@ Test application for Geodroid project.
 
 ## Setting up the Android SDK
 
-See the [GeoDroid README](/boundlessgeo/geodroid) for instructions on setting
-up the Android SDK tools.
+See the [GeoDroid README](https://github.com/boundlessgeo/geodroid) for 
+instructions on setting up the Android SDK tools.
 
 ## Setup
 
@@ -13,7 +13,8 @@ Start by cloning the GeoDroid repository.
 
     git clone git://github.com/boundlessgeo/geodroid.git
 
-Next clone the [JUnit4Android](/dthommes/JUnit4Android) repository.
+Next clone the [JUnit4Android](https://github.com/dthommes/JUnit4Android) 
+repository.
 
     git clone git://github.com/dthommes/JUnit4Android.git
 
